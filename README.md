@@ -1,2 +1,2 @@
 # phase1
-First Github Projecy
+First Github Project
